@@ -1,4 +1,3 @@
-// client/src/redux/slices/goalsSlice.ts
 import { createSlice, createAsyncThunk, PayloadAction } from '@reduxjs/toolkit';
 import { Goal } from '../../types';
 import axios from 'axios';

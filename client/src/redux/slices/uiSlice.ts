@@ -1,4 +1,3 @@
-// client/src/redux/slices/uiSlice.ts
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { EventItem } from '../../types';
 

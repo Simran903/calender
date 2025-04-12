@@ -1,5 +1,3 @@
-// client/src/types/index.ts
-
 export type EventCategory = 'exercise' | 'eating' | 'work' | 'relax' | 'family' | 'social';
 
 export interface EventItem {
