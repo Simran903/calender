@@ -1,4 +1,3 @@
-// client/src/api/api.ts
 import axios from 'axios';
 import { EventItem, Goal, Task } from '../types';
 

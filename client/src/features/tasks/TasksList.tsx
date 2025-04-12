@@ -1,4 +1,3 @@
-// client/src/features/tasks/TasksList.tsx
 import React, { useRef } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import { RootState, AppDispatch } from '../../redux/store';

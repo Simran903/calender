@@ -1,4 +1,3 @@
-// client/src/features/goals/GoalsList.tsx
 import React, { useEffect } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { RootState, AppDispatch } from '../../redux/store';
